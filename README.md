@@ -3,9 +3,9 @@ The MediAnalytics project focuses on analyzing the physical, psychological, and 
 
 ## Key Features
 
-- **Data Exploration:** Thorough exploration of the Virtual Patient Model Assessment dataset, examining the structure, contents, and distributions of the variables.
-  
 - **Data Loading and Cleaning:** Robust data loading and cleaning procedures ensure data integrity and consistency. Missing values are handled appropriately, and data quality is improved through preprocessing steps.
+  
+- **Data Exploration:** Thorough exploration of the Virtual Patient Model Assessment dataset, examining the structure, contents, and distributions of the variables.
 
 - **Visualization:** The dataset is visualized through plotting graphs and histograms, providing insightful visual representations of the underlying data patterns and distributions.
 
