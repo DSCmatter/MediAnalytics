@@ -26,7 +26,7 @@ https://github.com/DSCmatter/MediAnalytics.git
 ``` bash
 pip install -r requirements.txt
 ```
-3. Run the Jupyter Notebook:
+3. Run the Jupyter Notebook: vir_patient.ipynb
    
 4. Follow the instructions in the notebook to explore and analyze the dataset.
 
