@@ -19,16 +19,16 @@ The MediAnalytics project provides valuable insights into the health and wellnes
 
 ## Usage
 1. Clone the repository:
-```bash
+```
 https://github.com/DSCmatter/MediAnalytics.git
 ```
 2. Install the required dependencies:
-``` bash
+```
 pip install -r requirements.txt
 ```
-3. Run the Jupyter Notebook: vir_patient.ipynb
+3. Run the cmd and type: jupyter notebook, this will open your notebook on a browser, and also do not close the cmd after doing this, keep that on while working on your notebook.
    
-4. Follow the instructions in the notebook to explore and analyze the dataset.
+4. Follow the instructions in the notebook to explore and analyze the dataset or you may debug something you may find, or try something new? In anycase while doing anything, must sure Inform of all the changes you've made into this.
 
 ## The Dataset
 
