@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ```
 3. Run the cmd and type: jupyter notebook, this will open your notebook on a browser, and also do not close the cmd after doing this, keep that on while working on your notebook.
    
-4. Follow the instructions in the notebook to explore and analyze the dataset or you may debug something you may find, or try something new? In anycase while doing anything, must sure Inform of all the changes you've made into this.
+4. Follow the instructions in the notebook to explore and analyze the dataset or you may debug something you may find, or try something new? In anycase while doing anything, must sure Inform of all the changes you've made into this by making a *pull request*
 
 ## The Dataset
 
