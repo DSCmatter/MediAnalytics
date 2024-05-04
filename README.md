@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ## Contribution
 
-- Feel free to contribute to this project!
+- Feel free to contribute to this project! And if you do so, don't forget to add your name on the contributors list!
 - Contributors: [DSCmatter](https://github.com/DSCmatter)
 
 ## License
